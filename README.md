@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h1>I am Renato Dulog, 20 years old. Currently in WebriQ as an intern.<br>I am currently learning Next JS, Storybook and Sanity.<br>I'm looking to collaborate with fellow developers in their projects.<br>You can reach me through my email renrendulog@gmail.com or https://facebook.com/renatodulog.27</h1>
+I am Renato Dulog, 20 years old. Currently in WebriQ as an intern.<br>I am currently learning Next JS, Storybook and Sanity.<br>I'm looking to collaborate with fellow developers in their projects.<br>You can reach me through my email renrendulog@gmail.com or https://facebook.com/renatodulog.27
 
 
 ## 🌐 Socials:
