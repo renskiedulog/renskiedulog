@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Renato Dulog, 20 years old. Currently in WebriQ as an intern.<br>I am currently learning Next JS, Storybook and Sanity.<br>I'm looking to collaborate with fellow developers in their projects.<br>You can reach me through my email renrendulog@gmail.com or https://facebook.com/renatodulog.27
+I am Renato Dulog, 20 years old. Currently in WebriQ as an intern.<br>I am currently learning Next JS, React Native and Typescript.<br>I'm looking to collaborate with fellow developers in their projects.<br>You can reach me through my email renrendulog@gmail.com or https://facebook.com/renatodulog.27
 
 
 ## 🌐 Socials:
@@ -17,9 +17,6 @@ I am Renato Dulog, 20 years old. Currently in WebriQ as an intern.<br>I am curre
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=renskiedulog&icon=0&color=0)](https://visitcount.itsvg.in)
