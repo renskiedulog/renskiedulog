@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Renato L. Dulog, 21 years old.<br>I'm currently learning Next JS, NoSQL, Sanity and Typescript.<br>I'm looking to collaborate with fellow developers in their projects.<br>You can reach me through my email renrendulog@gmail.com or my facebook account https://facebook.com/renatodulog.27
+I am Renato L. Dulog, 21 years old.<br>I'm currently learning Sanity and Typescript.<br>I'm looking to collaborate with fellow developers in their projects.<br>You can reach me through my email renrendulog@gmail.com or my facebook account https://facebook.com/renatodulog.27
 
 
 ## 🌐 Socials:
